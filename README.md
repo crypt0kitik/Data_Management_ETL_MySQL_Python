@@ -1,3 +1,43 @@
+
+Total amount of orders in each month of 2023.
+Total amount of orders in 2023.
+Total orders by each customer in 2023.
+Top 3 customers by total order amount.
+Best customer’s monthly orders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 northwind-neo4j
 ===============
 
