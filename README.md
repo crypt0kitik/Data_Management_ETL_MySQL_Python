@@ -8,7 +8,29 @@ Best customer’s monthly orders.
 
 Let's drop into small steps this project:
 
-1. I have data in csv files. I need to use columns of this data in order to create a star schema in SQL
+1. Establishing connection and creating database and tables
+
+Tables:
+customer_dim
+date_dim
+employee_dim
+orders_fac
+product_dim
+ship_info
+shipper_dim
+supplier_dim
+
+2. I have data in csv files. I need to clean this data. 
+customer_dim:
+date_dim: I needed to modify date column into
+employee_dim
+orders_fac
+product_dim
+ship_info
+shipper_dim
+supplier_dim
+
+I need to use columns of this data in order to create a star schema in SQL
 
 2. I need to insert into the start shema data from column that i chosed in the previous step
 I need to do it using python script
