@@ -1,0 +1,10 @@
+employeeID,firstName,lastName,title,titleOfCourtesy,birthDate,hireDate,address,city,region,country,postalCode,reportsTo
+1,Nancy,Davolio,Sales Representative,Ms.,00:00.0,00:00.0,507 - 20th Ave. E. Apt. 2A,Seattle,WA,USA,98122,2
+2,Andrew,Fuller,"Vice President, Sales",Dr.,00:00.0,00:00.0,908 W. Capital Way,Tacoma,WA,USA,98401,NULL
+3,Janet,Leverling,Sales Representative,Ms.,00:00.0,00:00.0,722 Moss Bay Blvd.,Kirkland,WA,USA,98033,2
+4,Margaret,Peacock,Sales Representative,Mrs.,00:00.0,00:00.0,4110 Old Redmond Rd.,Redmond,WA,USA,98052,2
+5,Steven,Buchanan,Sales Manager,Mr.,00:00.0,00:00.0,14 Garrett Hill,London,NULL,UK,SW1 8JR,2
+6,Michael,Suyama,Sales Representative,Mr.,00:00.0,00:00.0,Coventry House Miner Rd.,London,NULL,UK,EC2 7JR,5
+7,Robert,King,Sales Representative,Mr.,00:00.0,00:00.0,Edgeham Hollow Winchester Way,London,NULL,UK,RG1 9SP,5
+8,Laura,Callahan,Inside Sales Coordinator,Ms.,00:00.0,00:00.0,4726 - 11th Ave. N.E.,Seattle,WA,USA,98105,2
+9,Anne,Dodsworth,Sales Representative,Ms.,00:00.0,00:00.0,7 Houndstooth Rd.,London,NULL,UK,WG2 7LT,5
