@@ -1,0 +1,831 @@
+shipAddress,shipCity,shipRegion,shipCountry
+59 rue de l'Abbaye,Reims,NULL,France
+Luisenstr. 48,Münster,NULL,Germany
+Rua do Paço,67,Rio de Janeiro,05454-876
+2, rue du Commerce,Lyon,69004
+Boulevard Tirou,255,Charleroi,B-6000
+Rua do Paço,67,Rio de Janeiro,05454-876
+Hauptstr. 31,Bern,NULL,Switzerland
+Starenweg 5,Genève,NULL,Switzerland
+Rua do Mercado,12,Resende,08737-363
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Kirchgasse 6,Graz,NULL,Austria
+Sierras de Granada 9993,México D.F.,NULL,Mexico
+Mehrheimerstr. 369,Köln,NULL,Germany
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+2817 Milton Dr.,Albuquerque,NM,USA
+Kirchgasse 6,Graz,NULL,Austria
+Åkergatan 24,Bräcke,NULL,Sweden
+24, place Kléber,Strasbourg,67000
+Torikatu 38,Oulu,NULL,Finland
+Berliner Platz 43,München,NULL,Germany
+5ª Ave. Los Palos Grandes,Caracas,DF,Venezuela
+1029 - 12th Ave. S.,Seattle,WA,USA
+Torikatu 38,Oulu,NULL,Finland
+P.O. Box 555,Lander,WY,USA
+2817 Milton Dr.,Albuquerque,NM,USA
+Taucherstraße 10,Cunewalde,NULL,Germany
+59 rue de l'Abbaye,Reims,NULL,France
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+Avda. Azteca 123,México D.F.,NULL,Mexico
+Heerstr. 22,Leipzig,NULL,Germany
+Berguvsvägen  8,Luleå,NULL,Sweden
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Berguvsvägen  8,Luleå,NULL,Sweden
+Gran Vía,1,Madrid,28001
+Gran Vía,1,Madrid,28001
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Taucherstraße 10,Cunewalde,NULL,Germany
+Taucherstraße 10,Cunewalde,NULL,Germany
+Av. Copacabana,267,Rio de Janeiro,02389-890
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Fauntleroy Circus,London,NULL,UK
+Av. dos Lusíadas,23,Sao Paulo,05432-043
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+Av. Inês de Castro,414,Sao Paulo,05634-030
+Avda. Azteca 123,México D.F.,NULL,Mexico
+2817 Milton Dr.,Albuquerque,NM,USA
+59 rue de l'Abbaye,Reims,NULL,France
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+24, place Kléber,Strasbourg,67000
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Av. Copacabana,267,Rio de Janeiro,02389-890
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+Adenauerallee 900,Stuttgart,NULL,Germany
+Boulevard Tirou,255,Charleroi,B-6000
+C/ Romero,33,Sevilla,41101
+Avda. Azteca 123,México D.F.,NULL,Mexico
+2743 Bering St.,Anchorage,AK,USA
+Gran Vía,1,Madrid,28001
+89 Chiaroscuro Rd.,Portland,OR,USA
+Avda. de la Constitución 2222,México D.F.,NULL,Mexico
+8 Johnstown Road,Cork,Co. Cork,Ireland
+89 Jefferson Way Suite 2,Portland,OR,USA
+67, rue des Cinquante Otages,Nantes,44000
+Adenauerallee 900,Stuttgart,NULL,Germany
+Taucherstraße 10,Cunewalde,NULL,Germany
+2817 Milton Dr.,Albuquerque,NM,USA
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+2817 Milton Dr.,Albuquerque,NM,USA
+89 Chiaroscuro Rd.,Portland,OR,USA
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Avda. Azteca 123,México D.F.,NULL,Mexico
+Torikatu 38,Oulu,NULL,Finland
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Calle Dr. Jorge Cash 321,México D.F.,NULL,Mexico
+Maubelstr. 90,Brandenburg,NULL,Germany
+187 Suffolk Ln.,Boise,ID,USA
+Maubelstr. 90,Brandenburg,NULL,Germany
+C/ Araquil,67,Madrid,28023
+Åkergatan 24,Bräcke,NULL,Sweden
+Jardim das rosas n. 32,Lisboa,NULL,Portugal
+P.O. Box 555,Lander,WY,USA
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+12, rue des Bouchers,Marseille,13008
+43 rue St. Laurent,Montréal,Québec,Canada
+Torikatu 38,Oulu,NULL,Finland
+2, rue du Commerce,Lyon,69004
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Estrada da saúde n. 58,Lisboa,NULL,Portugal
+Berliner Platz 43,München,NULL,Germany
+2743 Bering St.,Anchorage,AK,USA
+43 rue St. Laurent,Montréal,Québec,Canada
+12, rue des Bouchers,Marseille,13008
+Vinbæltet 34,Kobenhavn,NULL,Denmark
+Berliner Platz 43,München,NULL,Germany
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+1029 - 12th Ave. S.,Seattle,WA,USA
+Taucherstraße 10,Cunewalde,NULL,Germany
+2817 Milton Dr.,Albuquerque,NM,USA
+Rua Orós,92,Sao Paulo,05442-030
+Adenauerallee 900,Stuttgart,NULL,Germany
+P.O. Box 555,Lander,WY,USA
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Kirchgasse 6,Graz,NULL,Austria
+Jardim das rosas n. 32,Lisboa,NULL,Portugal
+Geislweg 14,Salzburg,NULL,Austria
+Calle Dr. Jorge Cash 321,México D.F.,NULL,Mexico
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Adenauerallee 900,Stuttgart,NULL,Germany
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+90 Wadhurst Rd.,London,NULL,UK
+24, place Kléber,Strasbourg,67000
+Taucherstraße 10,Cunewalde,NULL,Germany
+12, rue des Bouchers,Marseille,13008
+Walserweg 21,Aachen,NULL,Germany
+35 King George,London,NULL,UK
+Mataderos  2312,México D.F.,NULL,Mexico
+Rambla de Cataluña,23,Barcelona,8022
+Smagsloget 45,Århus,NULL,Denmark
+Kirchgasse 6,Graz,NULL,Austria
+P.O. Box 555,Lander,WY,USA
+Hauptstr. 31,Bern,NULL,Switzerland
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+8 Johnstown Road,Cork,Co. Cork,Ireland
+ul. Filtrowa 68,Warszawa,NULL,Poland
+City Center Plaza 516 Main St.,Elgin,OR,USA
+43 rue St. Laurent,Montréal,Québec,Canada
+90 Wadhurst Rd.,London,NULL,UK
+Åkergatan 24,Bräcke,NULL,Sweden
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+Kirchgasse 6,Graz,NULL,Austria
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Berguvsvägen  8,Luleå,NULL,Sweden
+P.O. Box 555,Lander,WY,USA
+Rua Orós,92,Sao Paulo,05442-030
+Erling Skakkes gate 78,Stavern,NULL,Norway
+90 Wadhurst Rd.,London,NULL,UK
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Kirchgasse 6,Graz,NULL,Austria
+Walserweg 21,Aachen,NULL,Germany
+Geislweg 14,Salzburg,NULL,Austria
+187 Suffolk Ln.,Boise,ID,USA
+City Center Plaza 516 Main St.,Elgin,OR,USA
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Berliner Platz 43,München,NULL,Germany
+Estrada da saúde n. 58,Lisboa,NULL,Portugal
+187 Suffolk Ln.,Boise,ID,USA
+Smagsloget 45,Århus,NULL,Denmark
+35 King George,London,NULL,UK
+2817 Milton Dr.,Albuquerque,NM,USA
+Kirchgasse 6,Graz,NULL,Austria
+Kirchgasse 6,Graz,NULL,Austria
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Mehrheimerstr. 369,Köln,NULL,Germany
+184, chaussée de Tournai,Lille,59000
+Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,NULL,Argentina
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Torikatu 38,Oulu,NULL,Finland
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Rua Orós,92,Sao Paulo,05442-030
+City Center Plaza 516 Main St.,Elgin,OR,USA
+Torikatu 38,Oulu,NULL,Finland
+Vinbæltet 34,Kobenhavn,NULL,Denmark
+Taucherstraße 10,Cunewalde,NULL,Germany
+Starenweg 5,Genève,NULL,Switzerland
+Rua do Mercado,12,Resende,08737-363
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+Via Monte Bianco 34,Torino,NULL,Italy
+Av. Brasil,442,Campinas,04876-786
+43 rue St. Laurent,Montréal,Québec,Canada
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Rambla de Cataluña,23,Barcelona,8022
+Geislweg 14,Salzburg,NULL,Austria
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Kirchgasse 6,Graz,NULL,Austria
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+P.O. Box 555,Lander,WY,USA
+Estrada da saúde n. 58,Lisboa,NULL,Portugal
+Åkergatan 24,Bräcke,NULL,Sweden
+Berkeley Gardens 12  Brewery,London,NULL,UK
+24, place Kléber,Strasbourg,67000
+Torikatu 38,Oulu,NULL,Finland
+Luisenstr. 48,Münster,NULL,Germany
+43 rue St. Laurent,Montréal,Québec,Canada
+187 Suffolk Ln.,Boise,ID,USA
+2743 Bering St.,Anchorage,AK,USA
+Kirchgasse 6,Graz,NULL,Austria
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Berguvsvägen  8,Luleå,NULL,Sweden
+Berguvsvägen  8,Luleå,NULL,Sweden
+Luisenstr. 48,Münster,NULL,Germany
+Av. Copacabana,267,Rio de Janeiro,02389-890
+Av. del Libertador 900,Buenos Aires,NULL,Argentina
+24, place Kléber,Strasbourg,67000
+2, rue du Commerce,Lyon,69004
+Taucherstraße 10,Cunewalde,NULL,Germany
+187 Suffolk Ln.,Boise,ID,USA
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Torikatu 38,Oulu,NULL,Finland
+Maubelstr. 90,Brandenburg,NULL,Germany
+Maubelstr. 90,Brandenburg,NULL,Germany
+Boulevard Tirou,255,Charleroi,B-6000
+2, rue du Commerce,Lyon,69004
+Åkergatan 24,Bräcke,NULL,Sweden
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+Berkeley Gardens 12  Brewery,London,NULL,UK
+Boulevard Tirou,255,Charleroi,B-6000
+Jardim das rosas n. 32,Lisboa,NULL,Portugal
+Smagsloget 45,Århus,NULL,Denmark
+Av. dos Lusíadas,23,Sao Paulo,05432-043
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+Maubelstr. 90,Brandenburg,NULL,Germany
+1029 - 12th Ave. S.,Seattle,WA,USA
+12, rue des Bouchers,Marseille,13008
+Fauntleroy Circus,London,NULL,UK
+90 Wadhurst Rd.,London,NULL,UK
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Calle Dr. Jorge Cash 321,México D.F.,NULL,Mexico
+Boulevard Tirou,255,Charleroi,B-6000
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Estrada da saúde n. 58,Lisboa,NULL,Portugal
+2, rue du Commerce,Lyon,69004
+2817 Milton Dr.,Albuquerque,NM,USA
+184, chaussée de Tournai,Lille,59000
+Av. Copacabana,267,Rio de Janeiro,02389-890
+12 Orchestra Terrace,Walla Walla,WA,USA
+1029 - 12th Ave. S.,Seattle,WA,USA
+Fauntleroy Circus,London,NULL,UK
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Berliner Platz 43,München,NULL,Germany
+Geislweg 14,Salzburg,NULL,Austria
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Jardim das rosas n. 32,Lisboa,NULL,Portugal
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Av. dos Lusíadas,23,Sao Paulo,05432-043
+2319 Elm St.,Vancouver,BC,Canada
+Av. Inês de Castro,414,Sao Paulo,05634-030
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Forsterstr. 57,Mannheim,NULL,Germany
+Calle Dr. Jorge Cash 321,México D.F.,NULL,Mexico
+8 Johnstown Road,Cork,Co. Cork,Ireland
+1029 - 12th Ave. S.,Seattle,WA,USA
+43 rue St. Laurent,Montréal,Québec,Canada
+Maubelstr. 90,Brandenburg,NULL,Germany
+Mataderos  2312,México D.F.,NULL,Mexico
+Mehrheimerstr. 369,Köln,NULL,Germany
+Forsterstr. 57,Mannheim,NULL,Germany
+187 Suffolk Ln.,Boise,ID,USA
+12, rue des Bouchers,Marseille,13008
+Rua Orós,92,Sao Paulo,05442-030
+Adenauerallee 900,Stuttgart,NULL,Germany
+Kirchgasse 6,Graz,NULL,Austria
+Taucherstraße 10,Cunewalde,NULL,Germany
+8 Johnstown Road,Cork,Co. Cork,Ireland
+South House 300 Queensbridge,London,NULL,UK
+Avda. Azteca 123,México D.F.,NULL,Mexico
+Hauptstr. 31,Bern,NULL,Switzerland
+Erling Skakkes gate 78,Stavern,NULL,Norway
+Cerrito 333,Buenos Aires,NULL,Argentina
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+90 Wadhurst Rd.,London,NULL,UK
+Berguvsvägen  8,Luleå,NULL,Sweden
+12, rue des Bouchers,Marseille,13008
+Torikatu 38,Oulu,NULL,Finland
+Taucherstraße 10,Cunewalde,NULL,Germany
+2732 Baker Blvd.,Eugene,OR,USA
+Rue Joseph-Bens 532,Bruxelles,NULL,Belgium
+Geislweg 14,Salzburg,NULL,Austria
+Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,NULL,Argentina
+35 King George,London,NULL,UK
+Åkergatan 24,Bräcke,NULL,Sweden
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Mataderos  2312,México D.F.,NULL,Mexico
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Starenweg 5,Genève,NULL,Switzerland
+Fauntleroy Circus,London,NULL,UK
+Fauntleroy Circus,London,NULL,UK
+Taucherstraße 10,Cunewalde,NULL,Germany
+Rua do Paço,67,Rio de Janeiro,05454-876
+Maubelstr. 90,Brandenburg,NULL,Germany
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+89 Chiaroscuro Rd.,Portland,OR,USA
+12 Orchestra Terrace,Walla Walla,WA,USA
+2, rue du Commerce,Lyon,69004
+90 Wadhurst Rd.,London,NULL,UK
+Luisenstr. 48,Münster,NULL,Germany
+Taucherstraße 10,Cunewalde,NULL,Germany
+C/ Romero,33,Sevilla,41101
+Jardim das rosas n. 32,Lisboa,NULL,Portugal
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Torikatu 38,Oulu,NULL,Finland
+Mehrheimerstr. 369,Köln,NULL,Germany
+187 Suffolk Ln.,Boise,ID,USA
+Vinbæltet 34,Kobenhavn,NULL,Denmark
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+24, place Kléber,Strasbourg,67000
+Berliner Platz 43,München,NULL,Germany
+Åkergatan 24,Bräcke,NULL,Sweden
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Av. Copacabana,267,Rio de Janeiro,02389-890
+2817 Milton Dr.,Albuquerque,NM,USA
+43 rue St. Laurent,Montréal,Québec,Canada
+24, place Kléber,Strasbourg,67000
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Rambla de Cataluña,23,Barcelona,8022
+2817 Milton Dr.,Albuquerque,NM,USA
+43 rue St. Laurent,Montréal,Québec,Canada
+Kirchgasse 6,Graz,NULL,Austria
+Berguvsvägen  8,Luleå,NULL,Sweden
+Mataderos  2312,México D.F.,NULL,Mexico
+722 DaVinci Blvd.,Kirkland,WA,USA
+Heerstr. 22,Leipzig,NULL,Germany
+Avda. Azteca 123,México D.F.,NULL,Mexico
+722 DaVinci Blvd.,Kirkland,WA,USA
+Fauntleroy Circus,London,NULL,UK
+87 Polk St. Suite 5,San Francisco,CA,USA
+Mehrheimerstr. 369,Köln,NULL,Germany
+Rua Orós,92,Sao Paulo,05442-030
+Forsterstr. 57,Mannheim,NULL,Germany
+Torikatu 38,Oulu,NULL,Finland
+24, place Kléber,Strasbourg,67000
+Rua do Mercado,12,Resende,08737-363
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+Taucherstraße 10,Cunewalde,NULL,Germany
+2732 Baker Blvd.,Eugene,OR,USA
+43 rue St. Laurent,Montréal,Québec,Canada
+Smagsloget 45,Århus,NULL,Denmark
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+2743 Bering St.,Anchorage,AK,USA
+Kirchgasse 6,Graz,NULL,Austria
+1029 - 12th Ave. S.,Seattle,WA,USA
+Geislweg 14,Salzburg,NULL,Austria
+2817 Milton Dr.,Albuquerque,NM,USA
+Fauntleroy Circus,London,NULL,UK
+City Center Plaza 516 Main St.,Elgin,OR,USA
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Smagsloget 45,Århus,NULL,Denmark
+187 Suffolk Ln.,Boise,ID,USA
+Jardim das rosas n. 32,Lisboa,NULL,Portugal
+43 rue St. Laurent,Montréal,Québec,Canada
+Av. Inês de Castro,414,Sao Paulo,05634-030
+187 Suffolk Ln.,Boise,ID,USA
+Luisenstr. 48,Münster,NULL,Germany
+67, rue des Cinquante Otages,Nantes,44000
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+ul. Filtrowa 68,Warszawa,NULL,Poland
+187 Suffolk Ln.,Boise,ID,USA
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Forsterstr. 57,Mannheim,NULL,Germany
+Keskuskatu 45,Helsinki,NULL,Finland
+2732 Baker Blvd.,Eugene,OR,USA
+2732 Baker Blvd.,Eugene,OR,USA
+43 rue St. Laurent,Montréal,Québec,Canada
+43 rue St. Laurent,Montréal,Québec,Canada
+2319 Elm St.,Vancouver,BC,Canada
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Av. Copacabana,267,Rio de Janeiro,02389-890
+Berliner Platz 43,München,NULL,Germany
+55 Grizzly Peak Rd.,Butte,MT,USA
+Avda. de la Constitución 2222,México D.F.,NULL,Mexico
+Berguvsvägen  8,Luleå,NULL,Sweden
+187 Suffolk Ln.,Boise,ID,USA
+24, place Kléber,Strasbourg,67000
+C/ Romero,33,Sevilla,41101
+Maubelstr. 90,Brandenburg,NULL,Germany
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Adenauerallee 900,Stuttgart,NULL,Germany
+Kirchgasse 6,Graz,NULL,Austria
+184, chaussée de Tournai,Lille,59000
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+Torikatu 38,Oulu,NULL,Finland
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Erling Skakkes gate 78,Stavern,NULL,Norway
+Adenauerallee 900,Stuttgart,NULL,Germany
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Vinbæltet 34,Kobenhavn,NULL,Denmark
+Obere Str. 57,Berlin,NULL,Germany
+Rua do Mercado,12,Resende,08737-363
+Rua do Paço,67,Rio de Janeiro,05454-876
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+Av. Copacabana,267,Rio de Janeiro,02389-890
+Rue Joseph-Bens 532,Bruxelles,NULL,Belgium
+Rua Orós,92,Sao Paulo,05442-030
+Adenauerallee 900,Stuttgart,NULL,Germany
+Av. Brasil,442,Campinas,04876-786
+Berliner Platz 43,München,NULL,Germany
+Berguvsvägen  8,Luleå,NULL,Sweden
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+2732 Baker Blvd.,Eugene,OR,USA
+187 Suffolk Ln.,Boise,ID,USA
+Taucherstraße 10,Cunewalde,NULL,Germany
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+City Center Plaza 516 Main St.,Elgin,OR,USA
+8 Johnstown Road,Cork,Co. Cork,Ireland
+89 Chiaroscuro Rd.,Portland,OR,USA
+12, rue des Bouchers,Marseille,13008
+Jardim das rosas n. 32,Lisboa,NULL,Portugal
+89 Chiaroscuro Rd.,Portland,OR,USA
+Starenweg 5,Genève,NULL,Switzerland
+Kirchgasse 6,Graz,NULL,Austria
+Adenauerallee 900,Stuttgart,NULL,Germany
+Vinbæltet 34,Kobenhavn,NULL,Denmark
+Berliner Platz 43,München,NULL,Germany
+54, rue Royale,Nantes,44000
+Berguvsvägen  8,Luleå,NULL,Sweden
+Keskuskatu 45,Helsinki,NULL,Finland
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Berliner Platz 43,München,NULL,Germany
+Avda. Azteca 123,México D.F.,NULL,Mexico
+Mataderos  2312,México D.F.,NULL,Mexico
+187 Suffolk Ln.,Boise,ID,USA
+24, place Kléber,Strasbourg,67000
+2743 Bering St.,Anchorage,AK,USA
+2732 Baker Blvd.,Eugene,OR,USA
+Mataderos  2312,México D.F.,NULL,Mexico
+67, rue des Cinquante Otages,Nantes,44000
+Mehrheimerstr. 369,Köln,NULL,Germany
+Av. Brasil,442,Campinas,04876-786
+Geislweg 14,Salzburg,NULL,Austria
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Smagsloget 45,Århus,NULL,Denmark
+Berguvsvägen  8,Luleå,NULL,Sweden
+Rua do Paço,67,Rio de Janeiro,05454-876
+Taucherstraße 10,Cunewalde,NULL,Germany
+Obere Str. 57,Berlin,NULL,Germany
+1029 - 12th Ave. S.,Seattle,WA,USA
+Taucherstraße 10,Cunewalde,NULL,Germany
+Keskuskatu 45,Helsinki,NULL,Finland
+1029 - 12th Ave. S.,Seattle,WA,USA
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Kirchgasse 6,Graz,NULL,Austria
+Heerstr. 22,Leipzig,NULL,Germany
+187 Suffolk Ln.,Boise,ID,USA
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Obere Str. 57,Berlin,NULL,Germany
+Åkergatan 24,Bräcke,NULL,Sweden
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+2743 Bering St.,Anchorage,AK,USA
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+89 Jefferson Way Suite 2,Portland,OR,USA
+Av. Brasil,442,Campinas,04876-786
+Via Monte Bianco 34,Torino,NULL,Italy
+187 Suffolk Ln.,Boise,ID,USA
+8 Johnstown Road,Cork,Co. Cork,Ireland
+187 Suffolk Ln.,Boise,ID,USA
+187 Suffolk Ln.,Boise,ID,USA
+12, rue des Bouchers,Marseille,13008
+Av. del Libertador 900,Buenos Aires,NULL,Argentina
+Berliner Platz 43,München,NULL,Germany
+Maubelstr. 90,Brandenburg,NULL,Germany
+87 Polk St. Suite 5,San Francisco,CA,USA
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+Taucherstraße 10,Cunewalde,NULL,Germany
+187 Suffolk Ln.,Boise,ID,USA
+1029 - 12th Ave. S.,Seattle,WA,USA
+43 rue St. Laurent,Montréal,Québec,Canada
+Rua Orós,92,Sao Paulo,05442-030
+35 King George,London,NULL,UK
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+12, rue des Bouchers,Marseille,13008
+Hauptstr. 31,Bern,NULL,Switzerland
+12, rue des Bouchers,Marseille,13008
+Berguvsvägen  8,Luleå,NULL,Sweden
+Av. Brasil,442,Campinas,04876-786
+87 Polk St. Suite 5,San Francisco,CA,USA
+8 Johnstown Road,Cork,Co. Cork,Ireland
+59 rue de l'Abbaye,Reims,NULL,France
+25, rue Lauriston,Paris,75016
+59 rue de l'Abbaye,Reims,NULL,France
+1029 - 12th Ave. S.,Seattle,WA,USA
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Smagsloget 45,Århus,NULL,Denmark
+Taucherstraße 10,Cunewalde,NULL,Germany
+Hauptstr. 31,Bern,NULL,Switzerland
+Geislweg 14,Salzburg,NULL,Austria
+187 Suffolk Ln.,Boise,ID,USA
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Torikatu 38,Oulu,NULL,Finland
+Starenweg 5,Genève,NULL,Switzerland
+South House 300 Queensbridge,London,NULL,UK
+Via Monte Bianco 34,Torino,NULL,Italy
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+12, rue des Bouchers,Marseille,13008
+P.O. Box 555,Lander,WY,USA
+187 Suffolk Ln.,Boise,ID,USA
+Starenweg 5,Genève,NULL,Switzerland
+Avda. de la Constitución 2222,México D.F.,NULL,Mexico
+Rue Joseph-Bens 532,Bruxelles,NULL,Belgium
+2817 Milton Dr.,Albuquerque,NM,USA
+Åkergatan 24,Bräcke,NULL,Sweden
+184, chaussée de Tournai,Lille,59000
+Kirchgasse 6,Graz,NULL,Austria
+Taucherstraße 10,Cunewalde,NULL,Germany
+Mehrheimerstr. 369,Köln,NULL,Germany
+Boulevard Tirou,255,Charleroi,B-6000
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Smagsloget 45,Århus,NULL,Denmark
+Rua do Paço,67,Rio de Janeiro,05454-876
+Kirchgasse 6,Graz,NULL,Austria
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Kirchgasse 6,Graz,NULL,Austria
+Åkergatan 24,Bräcke,NULL,Sweden
+55 Grizzly Peak Rd.,Butte,MT,USA
+Kirchgasse 6,Graz,NULL,Austria
+Av. Brasil,442,Campinas,04876-786
+Berguvsvägen  8,Luleå,NULL,Sweden
+Heerstr. 22,Leipzig,NULL,Germany
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+Torikatu 38,Oulu,NULL,Finland
+Cerrito 333,Buenos Aires,NULL,Argentina
+Rua do Paço,67,Rio de Janeiro,05454-876
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+5ª Ave. Los Palos Grandes,Caracas,DF,Venezuela
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Taucherstraße 10,Cunewalde,NULL,Germany
+184, chaussée de Tournai,Lille,59000
+Av. Brasil,442,Campinas,04876-786
+Berliner Platz 43,München,NULL,Germany
+ul. Filtrowa 68,Warszawa,NULL,Poland
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+Kirchgasse 6,Graz,NULL,Austria
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Walserweg 21,Aachen,NULL,Germany
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Maubelstr. 90,Brandenburg,NULL,Germany
+90 Wadhurst Rd.,London,NULL,UK
+C/ Araquil,67,Madrid,28023
+Vinbæltet 34,Kobenhavn,NULL,Denmark
+Rua do Mercado,12,Resende,08737-363
+90 Wadhurst Rd.,London,NULL,UK
+89 Jefferson Way Suite 2,Portland,OR,USA
+2, rue du Commerce,Lyon,69004
+Via Monte Bianco 34,Torino,NULL,Italy
+2743 Bering St.,Anchorage,AK,USA
+Rua do Mercado,12,Resende,08737-363
+2319 Elm St.,Vancouver,BC,Canada
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Av. Copacabana,267,Rio de Janeiro,02389-890
+2, rue du Commerce,Lyon,69004
+187 Suffolk Ln.,Boise,ID,USA
+2732 Baker Blvd.,Eugene,OR,USA
+Maubelstr. 90,Brandenburg,NULL,Germany
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+Cerrito 333,Buenos Aires,NULL,Argentina
+2817 Milton Dr.,Albuquerque,NM,USA
+P.O. Box 555,Lander,WY,USA
+722 DaVinci Blvd.,Kirkland,WA,USA
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+Åkergatan 24,Bräcke,NULL,Sweden
+Walserweg 21,Aachen,NULL,Germany
+24, place Kléber,Strasbourg,67000
+12, rue des Bouchers,Marseille,13008
+Av. del Libertador 900,Buenos Aires,NULL,Argentina
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Av. Inês de Castro,414,Sao Paulo,05634-030
+Erling Skakkes gate 78,Stavern,NULL,Norway
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Mehrheimerstr. 369,Köln,NULL,Germany
+Av. Inês de Castro,414,Sao Paulo,05634-030
+Obere Str. 57,Berlin,NULL,Germany
+Kirchgasse 6,Graz,NULL,Austria
+Berguvsvägen  8,Luleå,NULL,Sweden
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Av. Inês de Castro,414,Sao Paulo,05634-030
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Boulevard Tirou,255,Charleroi,B-6000
+Avda. Azteca 123,México D.F.,NULL,Mexico
+2, rue du Commerce,Lyon,69004
+Geislweg 14,Salzburg,NULL,Austria
+Taucherstraße 10,Cunewalde,NULL,Germany
+Boulevard Tirou,255,Charleroi,B-6000
+187 Suffolk Ln.,Boise,ID,USA
+Berkeley Gardens 12  Brewery,London,NULL,UK
+Maubelstr. 90,Brandenburg,NULL,Germany
+2, rue du Commerce,Lyon,69004
+Av. Copacabana,267,Rio de Janeiro,02389-890
+2817 Milton Dr.,Albuquerque,NM,USA
+Forsterstr. 57,Mannheim,NULL,Germany
+Kirchgasse 6,Graz,NULL,Austria
+2743 Bering St.,Anchorage,AK,USA
+Mataderos  2312,México D.F.,NULL,Mexico
+Berguvsvägen  8,Luleå,NULL,Sweden
+67, avenue de l'Europe,Versailles,78000
+Berliner Platz 43,München,NULL,Germany
+54, rue Royale,Nantes,44000
+1029 - 12th Ave. S.,Seattle,WA,USA
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Taucherstraße 10,Cunewalde,NULL,Germany
+Berguvsvägen  8,Luleå,NULL,Sweden
+89 Chiaroscuro Rd.,Portland,OR,USA
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+90 Wadhurst Rd.,London,NULL,UK
+ul. Filtrowa 68,Warszawa,NULL,Poland
+12, rue des Bouchers,Marseille,13008
+C/ Romero,33,Sevilla,41101
+Keskuskatu 45,Helsinki,NULL,Finland
+C/ Romero,33,Sevilla,41101
+Berguvsvägen  8,Luleå,NULL,Sweden
+12, rue des Bouchers,Marseille,13008
+Av. Copacabana,267,Rio de Janeiro,02389-890
+Taucherstraße 10,Cunewalde,NULL,Germany
+Keskuskatu 45,Helsinki,NULL,Finland
+Åkergatan 24,Bräcke,NULL,Sweden
+Cerrito 333,Buenos Aires,NULL,Argentina
+187 Suffolk Ln.,Boise,ID,USA
+89 Chiaroscuro Rd.,Portland,OR,USA
+87 Polk St. Suite 5,San Francisco,CA,USA
+Boulevard Tirou,255,Charleroi,B-6000
+Rua do Paço,67,Rio de Janeiro,05454-876
+Rambla de Cataluña,23,Barcelona,8022
+C/ Romero,33,Sevilla,41101
+2817 Milton Dr.,Albuquerque,NM,USA
+67, rue des Cinquante Otages,Nantes,44000
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Rue Joseph-Bens 532,Bruxelles,NULL,Belgium
+Maubelstr. 90,Brandenburg,NULL,Germany
+187 Suffolk Ln.,Boise,ID,USA
+Kirchgasse 6,Graz,NULL,Austria
+Rue Joseph-Bens 532,Bruxelles,NULL,Belgium
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,NULL,Argentina
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+Rua do Mercado,12,Resende,08737-363
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Åkergatan 24,Bräcke,NULL,Sweden
+Rua do Paço,67,Rio de Janeiro,05454-876
+1029 - 12th Ave. S.,Seattle,WA,USA
+Rua do Mercado,12,Resende,08737-363
+ul. Filtrowa 68,Warszawa,NULL,Poland
+25, rue Lauriston,Paris,75016
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Erling Skakkes gate 78,Stavern,NULL,Norway
+Keskuskatu 45,Helsinki,NULL,Finland
+C/ Romero,33,Sevilla,41101
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Avda. Azteca 123,México D.F.,NULL,Mexico
+Av. del Libertador 900,Buenos Aires,NULL,Argentina
+Gran Vía,1,Madrid,28001
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Smagsloget 45,Århus,NULL,Denmark
+Rua do Paço,67,Rio de Janeiro,05454-876
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Berguvsvägen  8,Luleå,NULL,Sweden
+Rua do Paço,67,Rio de Janeiro,05454-876
+Avda. de la Constitución 2222,México D.F.,NULL,Mexico
+67, avenue de l'Europe,Versailles,78000
+Rambla de Cataluña,23,Barcelona,8022
+Berliner Platz 43,München,NULL,Germany
+Boulevard Tirou,255,Charleroi,B-6000
+Starenweg 5,Genève,NULL,Switzerland
+12, rue des Bouchers,Marseille,13008
+Garden House Crowther Way,Cowes,Isle of Wight,UK
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Rua do Mercado,12,Resende,08737-363
+2732 Baker Blvd.,Eugene,OR,USA
+Cerrito 333,Buenos Aires,NULL,Argentina
+Taucherstraße 10,Cunewalde,NULL,Germany
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+12, rue des Bouchers,Marseille,13008
+187 Suffolk Ln.,Boise,ID,USA
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Fauntleroy Circus,London,NULL,UK
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Heerstr. 22,Leipzig,NULL,Germany
+Smagsloget 45,Århus,NULL,Denmark
+Fauntleroy Circus,London,NULL,UK
+C/ Romero,33,Sevilla,41101
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Via Ludovico il Moro 22,Bergamo,NULL,Italy
+Starenweg 5,Genève,NULL,Switzerland
+Obere Str. 57,Berlin,NULL,Germany
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Åkergatan 24,Bräcke,NULL,Sweden
+Forsterstr. 57,Mannheim,NULL,Germany
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,NULL,Argentina
+Av. Brasil,442,Campinas,04876-786
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Taucherstraße 10,Cunewalde,NULL,Germany
+Jardim das rosas n. 32,Lisboa,NULL,Portugal
+25, rue Lauriston,Paris,75016
+2743 Bering St.,Anchorage,AK,USA
+Hauptstr. 31,Bern,NULL,Switzerland
+Luisenstr. 48,Münster,NULL,Germany
+Kirchgasse 6,Graz,NULL,Austria
+Av. dos Lusíadas,23,Sao Paulo,05432-043
+C/ Araquil,67,Madrid,28023
+54, rue Royale,Nantes,44000
+67, avenue de l'Europe,Versailles,78000
+67, avenue de l'Europe,Versailles,78000
+P.O. Box 555,Lander,WY,USA
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+Åkergatan 24,Bräcke,NULL,Sweden
+Rue Joseph-Bens 532,Bruxelles,NULL,Belgium
+Kirchgasse 6,Graz,NULL,Austria
+Åkergatan 24,Bräcke,NULL,Sweden
+Rua do Paço,67,Rio de Janeiro,05454-876
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+187 Suffolk Ln.,Boise,ID,USA
+187 Suffolk Ln.,Boise,ID,USA
+8 Johnstown Road,Cork,Co. Cork,Ireland
+Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,NULL,Argentina
+35 King George,London,NULL,UK
+2817 Milton Dr.,Albuquerque,NM,USA
+Rua da Panificadora,12,Rio de Janeiro,02389-673
+Kirchgasse 6,Graz,NULL,Austria
+Taucherstraße 10,Cunewalde,NULL,Germany
+89 Jefferson Way Suite 2,Portland,OR,USA
+Åkergatan 24,Bräcke,NULL,Sweden
+Smagsloget 45,Århus,NULL,Denmark
+Calle Dr. Jorge Cash 321,México D.F.,NULL,Mexico
+Taucherstraße 10,Cunewalde,NULL,Germany
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+ul. Filtrowa 68,Warszawa,NULL,Poland
+Mehrheimerstr. 369,Köln,NULL,Germany
+2817 Milton Dr.,Albuquerque,NM,USA
+Åkergatan 24,Bräcke,NULL,Sweden
+187 Suffolk Ln.,Boise,ID,USA
+55 Grizzly Peak Rd.,Butte,MT,USA
+Rue Joseph-Bens 532,Bruxelles,NULL,Belgium
+Keskuskatu 45,Helsinki,NULL,Finland
+2732 Baker Blvd.,Eugene,OR,USA
+Estrada da saúde n. 58,Lisboa,NULL,Portugal
+Kirchgasse 6,Graz,NULL,Austria
+C/ Romero,33,Sevilla,41101
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+Obere Str. 57,Berlin,NULL,Germany
+Berliner Platz 43,München,NULL,Germany
+Gran Vía,1,Madrid,28001
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+Erling Skakkes gate 78,Stavern,NULL,Norway
+Brook Farm Stratford St. Mary,Colchester,Essex,UK
+Kirchgasse 6,Graz,NULL,Austria
+89 Chiaroscuro Rd.,Portland,OR,USA
+Av. del Libertador 900,Buenos Aires,NULL,Argentina
+Mehrheimerstr. 369,Köln,NULL,Germany
+Taucherstraße 10,Cunewalde,NULL,Germany
+Rua do Paço,67,Rio de Janeiro,05454-876
+Fauntleroy Circus,London,NULL,UK
+35 King George,London,NULL,UK
+Torikatu 38,Oulu,NULL,Finland
+Via Monte Bianco 34,Torino,NULL,Italy
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Maubelstr. 90,Brandenburg,NULL,Germany
+Hauptstr. 31,Bern,NULL,Switzerland
+187 Suffolk Ln.,Boise,ID,USA
+187 Suffolk Ln.,Boise,ID,USA
+1029 - 12th Ave. S.,Seattle,WA,USA
+Starenweg 5,Genève,NULL,Switzerland
+2743 Bering St.,Anchorage,AK,USA
+Boulevard Tirou,255,Charleroi,B-6000
+Walserweg 21,Aachen,NULL,Germany
+C/ Romero,33,Sevilla,41101
+Boulevard Tirou,255,Charleroi,B-6000
+Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,Venezuela
+2732 Baker Blvd.,Eugene,OR,USA
+Hauptstr. 31,Bern,NULL,Switzerland
+Av. dos Lusíadas,23,Sao Paulo,05432-043
+25, rue Lauriston,Paris,75016
+ul. Filtrowa 68,Warszawa,NULL,Poland
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Adenauerallee 900,Stuttgart,NULL,Germany
+35 King George,London,NULL,UK
+23 Tsawassen Blvd.,Tsawassen,BC,Canada
+Av. Brasil,442,Campinas,04876-786
+Åkergatan 24,Bräcke,NULL,Sweden
+1 rue Alsace-Lorraine,Toulouse,NULL,France
+Rua do Paço,67,Rio de Janeiro,05454-876
+Geislweg 14,Salzburg,NULL,Austria
+Cerrito 333,Buenos Aires,NULL,Argentina
+Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,Venezuela
+35 King George,London,NULL,UK
+South House 300 Queensbridge,London,NULL,UK
+Forsterstr. 57,Mannheim,NULL,Germany
+Av. Copacabana,267,Rio de Janeiro,02389-890
+Via Monte Bianco 34,Torino,NULL,Italy
+2732 Baker Blvd.,Eugene,OR,USA
+Strada Provinciale 124,Reggio Emilia,NULL,Italy
+8 Johnstown Road,Cork,Co. Cork,Ireland
+187 Suffolk Ln.,Boise,ID,USA
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+1029 - 12th Ave. S.,Seattle,WA,USA
+Walserweg 21,Aachen,NULL,Germany
+Alameda dos Canàrios,891,Sao Paulo,05487-020
+Avda. Azteca 123,México D.F.,NULL,Mexico
+Magazinweg 7,Frankfurt a.M.,NULL,Germany
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,Venezuela
+Kirchgasse 6,Graz,NULL,Austria
+Calle Dr. Jorge Cash 321,México D.F.,NULL,Mexico
+Vinbæltet 34,Kobenhavn,NULL,Denmark
+Starenweg 5,Genève,NULL,Switzerland
+12, rue des Bouchers,Marseille,13008
+2817 Milton Dr.,Albuquerque,NM,USA
