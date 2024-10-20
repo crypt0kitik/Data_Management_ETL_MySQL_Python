@@ -20,15 +20,18 @@ ship_info
 shipper_dim
 supplier_dim
 
-2. I have data in csv files. I need to clean this data. 
+2. I have data in csv files. I need to clean and modify this data. 
+
 customer_dim:
-date_dim: I needed to modify date column into
+date_dim:
 employee_dim
 orders_fac
 product_dim
 ship_info
 shipper_dim
 supplier_dim
+
+I opted for the easiest option and first of all i combined all nessexary data from different excel files to ones that i need for the SQl scheme
 
 I need to use columns of this data in order to create a star schema in SQL
 
