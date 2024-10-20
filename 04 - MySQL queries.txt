@@ -1,0 +1,110 @@
+- Total amount of orders in each month of 2023.
+
+SELECT 
+    DATE_FORMAT(date_dim.full_date, '%Y-%m') AS order_month,
+    SUM(orders_fact.unit_price * orders_fact.quantity * (1 - orders_fact.discount)) AS total_order_amount
+FROM 
+    orders_fact
+JOIN 
+    date_dim ON orders_fact.order_date = date_dim.date_key
+WHERE 
+    date_dim.year = 2023
+GROUP BY 
+    order_month
+ORDER BY 
+    order_month;
+
+-------------------------------------------------------------------------------------------------------------------------
+
+- Total amount of orders in 2023.
+
+SELECT 
+    SUM(orders_fact.unit_price * orders_fact.quantity * (1 - orders_fact.discount)) AS total_order_amount
+FROM 
+    orders_fact
+JOIN 
+    date_dim ON orders_fact.order_date = date_dim.date_key
+WHERE 
+    date_dim.year = 2023;
+
+-------------------------------------------------------------------------------------------------------------------------
+
+- Total orders by each customer in 2023.
+
+SELECT 
+    customer_dim.customer_id,
+    customer_dim.company_name,
+    COUNT(orders_fact.orderID) AS total_orders
+FROM 
+    orders_fact
+JOIN 
+    customer_dim ON orders_fact.customer_key = customer_dim.customer_key
+JOIN 
+    date_dim ON orders_fact.order_date = date_dim.date_key
+WHERE 
+    date_dim.year = 2023
+GROUP BY 
+    customer_dim.customer_id, customer_dim.company_name
+ORDER BY 
+    total_orders DESC;
+
+-------------------------------------------------------------------------------------------------------------------------
+
+- Top 3 customers by total order amount.
+
+SELECT 
+    customer_dim.customer_id, 
+    customer_dim.company_name, 
+    SUM(orders_fact.unit_price * orders_fact.quantity * (1 - orders_fact.discount)) AS total_order_amount
+FROM 
+    orders_fact
+JOIN 
+    customer_dim ON orders_fact.customer_key = customer_dim.customer_key
+JOIN 
+    date_dim ON orders_fact.order_date = date_dim.date_key
+WHERE 
+    date_dim.year = 2023
+GROUP BY 
+    customer_dim.customer_id, 
+    customer_dim.company_name
+ORDER BY 
+    total_order_amount DESC
+LIMIT 3;
+
+-------------------------------------------------------------------------------------------------------------------------
+
+- Best customer’s monthly orders.
+
+SELECT 
+    DATE_FORMAT(date_dim.full_date, '%Y-%m') AS order_month,
+    SUM(orders_fact.unit_price * orders_fact.quantity * (1 - orders_fact.discount)) AS total_order_amount
+FROM 
+    orders_fact
+JOIN 
+    customer_dim ON orders_fact.customer_key = customer_dim.customer_key
+JOIN 
+    date_dim ON orders_fact.order_date = date_dim.date_key
+WHERE 
+    customer_dim.customer_key = (
+        SELECT 
+            customer_dim.customer_key
+        FROM 
+            orders_fact
+        JOIN 
+            customer_dim ON orders_fact.customer_key = customer_dim.customer_key
+        JOIN 
+            date_dim ON orders_fact.order_date = date_dim.date_key
+        WHERE 
+            date_dim.year = 2023
+        GROUP BY 
+            customer_dim.customer_key
+        ORDER BY 
+            SUM(orders_fact.unit_price * orders_fact.quantity * (1 - orders_fact.discount)) DESC
+        LIMIT 1
+    )
+AND 
+    date_dim.year = 2023
+GROUP BY 
+    order_month
+ORDER BY 
+    order_month;

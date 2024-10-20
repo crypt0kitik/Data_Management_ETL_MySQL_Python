@@ -20,7 +20,7 @@ ship_info
 shipper_dim
 supplier_dim
 
-2. I have data in csv files. I need to clean and modify this data. 
+2. I have data in csv files which I cleaned and modified
 
 customer_dim:
 date_dim:
@@ -31,13 +31,8 @@ ship_info
 shipper_dim
 supplier_dim
 
-I opted for the easiest option and first of all i combined all nessexary data from different excel files to ones that i need for the SQl scheme
-
-I need to use columns of this data in order to create a star schema in SQL
-
-2. I need to insert into the start shema data from column that i chosed in the previous step
-I need to do it using python script
-For this I need
+2. I inserted into the start shema data using Python
+For this I needed
 --> wirte Python script
 --> clean data (keep in mind, that prices are in euros and in classicmodels in dollars 
 + we are interested only in month / year level information it will be better to have 
