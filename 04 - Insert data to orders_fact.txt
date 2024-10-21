@@ -1,0 +1,40 @@
+MySQL query whhich I run in the WorkBench
+to insert data to orders_fact
+
+
+SELECT 
+    o.orderID, 
+    e.employee_key, 
+    s.shipper_key, 
+    c.customer_key, 
+    sup.supplier_key,  
+    p.product_key, 
+    si.shipinfo_key, 
+    d1.date_key AS order_date, 
+    d2.date_key AS required_date, 
+    d3.date_key AS shipped_date, 
+    o.freight, 
+    p.unit_price, 
+    o.quantity, 
+    o.discount, 
+    (p.unit_price * o.quantity * (1 - o.discount)) AS actual_cost
+FROM 
+    orders_fact AS o
+JOIN 
+    employee_dim AS e ON o.employee_key = e.employee_key
+JOIN 
+    shipper_dim AS s ON o.shipper_key = s.shipper_key
+JOIN 
+    customer_dim AS c ON o.customer_key = c.customer_key
+JOIN 
+    product_dim AS p ON o.product_key = p.product_key
+JOIN 
+    supplier_dim AS sup ON p.product_key = sup.supplier_key  
+JOIN 
+    ship_info AS si ON o.shipinfo_key = si.shipinfo_key
+JOIN 
+    date_dim AS d1 ON o.order_date = d1.date_key
+JOIN 
+    date_dim AS d2 ON o.required_date = d2.date_key
+JOIN 
+    date_dim AS d3 ON o.shipped_date = d3.date_key;
